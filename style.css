@@ -1,0 +1,27 @@
+body{
+    color: lightgoldenrodyellow;
+    background-color: cadetblue;
+    background-size: cover;
+    font-size: 20px;
+    border-radius: 10px;
+}
+h1{
+    background-color: burlywood;
+    color: cornsilk;
+}
+button{
+    background-color: lightcoral;
+    font-size: 20px;
+    border-radius: 10px;
+}
+label{
+    background-color: coral;
+}
+h3{
+    bottom: 0px;
+    position: fixed;
+    background-color: coral;
+    width: 45%;
+    font-size: 30px;
+    color: crimson;
+}
